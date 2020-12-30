@@ -1,0 +1,142 @@
+/* ----------- OPEN SANS ----------------- */
+    @font-face {
+        font-family: 'Open Sans'; /* Global font */
+        src: url('../fonts/open-sans/OpenSans-Regular.ttf')  format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Open Sans Light'; /* Global font */
+        src: url('../fonts/open-sans/OpenSans-Light.ttf')  format('truetype');
+    }
+
+
+
+/* ----------- Helvetica ----------------- */
+    @font-face {
+        font-family: 'Helvetica Thin'; /* Global font */
+        src: url('../fonts/helveticaneue/HelveticaNeue Thin.ttf')  format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Helvetica Light'; /* Global font */
+        src: url('../fonts/helveticaneue/HelveticaNeue Light.ttf')  format('truetype');
+    }
+
+
+    @font-face {
+        font-family: 'Helvetica Medium';
+        src: url('../fonts/helveticaneue/HelveticaNeue Medium.ttf') format('truetype');
+    }
+
+
+
+/*------------- Roboto ---------------*/
+    @font-face {
+        font-family: 'Roboto'; /* Global font */
+        src: url('../fonts/roboto/Roboto-Regular.ttf')  format('truetype');
+    }
+    @font-face {
+        font-family: 'Roboto Light'; /* Global font */
+        src: url('../fonts/roboto/Roboto-Light.ttf')  format('truetype');
+    }
+
+
+
+
+
+/*------------- MYRIAD ---------------*/
+    @font-face {
+        font-family: 'Myriad'; /* Global font */
+        src: url('../fonts/myriad/MyriadPro-Regular.otf')  format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Myriad Light'; /* Global font */
+        src: url('../fonts/myriad/MyriadPro-Light.otf')  format('truetype');
+    }
+
+
+
+
+
+/*------------- Proximanova ---------------*/
+    @font-face {
+        font-family: 'Proximanova'; /* Global font */
+        src: url('../fonts/proximanova/Proxima Nova Regular.ttf')  format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Proximanova Thin'; /* Global font */
+        src: url('../fonts/proximanova/Proxima Nova Thin.ttf')  format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Proximanova Semibold'; /* Global font */
+        src: url('../fonts/proximanova/Proxima Nova Semibold.ttf')  format('truetype');
+    }
+
+
+/*------------- Comfortaa ---------------*/
+    @font-face {
+        font-family: 'Comfortaa'; /* Global font */
+        src: url('../fonts/comforta/Comfortaa-Regular.ttf')  format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Comfortaa Light'; /* Global font */
+        src: url('../fonts/comforta/Comfortaa-Light.ttf')  format('truetype');
+    }
+
+/* -------------- Droid Sans --------------- */
+
+    @font-face {
+        font-family: 'Droidsans'; /* Global font */
+        src: url('../fonts/droidsans/DroidSans.ttf')  format('truetype');
+    }
+
+    @font-face {
+        font-family: 'Droidsans Bold'; /* Global font */
+        src: url('../fonts/droidsans/DroidSans-Bold.ttf')  format('truetype');
+    }
+
+
+/* -------------- Droid Sans --------------- */
+
+@font-face {
+    font-family: 'GreyCliff'; /* Global font */
+    src: url('../fonts/greycliff/greycliff-cf-medium.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'GreyCliff Light'; /* Global font */
+    src: url('../fonts/greycliff/greycliff-cf-light.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'GreyCliff Bold'; /* Global font */
+    src: url('../fonts/greycliff/greycliff-cf-bold.ttf')  format('truetype');
+}
+
+
+
+
+/* -------------- Nunito --------------- */
+
+@font-face {
+    font-family: 'Nunito'; /* Global font */
+    src: url('../fonts/nunito/Nunito-Regular.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Nunito ExtraLight'; /* Global font */
+    src: url('../fonts/nunito/Nunito-ExtraLight.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Nunito Light'; /* Global font */
+    src: url('../fonts/nunito/Nunito-Light.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Nunito Medium'; /* Global font */
+    src: url('../fonts/nunito/Nunito-Medium.ttf')  format('truetype');
+}
+@font-face {
+    font-family: 'Nunito Bold'; /* Global font */
+    src: url('../fonts/nunito/Nunito-Bold.ttf')  format('truetype');
+}
