@@ -1,4 +1,13 @@
 .header-container{
   height: 70px;
   background-color: #fff;
+
+  .nav-menu{
+    .menu-items{
+      &.active{
+        // text-decoration: underline;
+        @apply underline;
+      }
+    }
+  }
 }

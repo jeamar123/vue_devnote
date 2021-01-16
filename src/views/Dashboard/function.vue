@@ -1,9 +1,11 @@
 <script>
 	import { Header } from '../Header'
+	import { Loader } from '../../components/Loader'
 	// import axios from 'axios'
 	var Dashboard = {
 		components:{
 			Header,
+			Loader,
 		},
 		data() {
 			return {
@@ -19,7 +21,7 @@
       hideLoading() {
       	setTimeout(()=>{
 				  this.showLoader = false;
-				},1000);
+				},500);
       },
     }
 	}

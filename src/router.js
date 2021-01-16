@@ -9,6 +9,8 @@ axios.defaults.user_id = null;
 
 // import Auth from './views/Auth.vue'
 import { Dashboard } from './views/Dashboard'
+import { Topics } from './views/Topics'
+import { Note } from './views/Note'
 
 
 
@@ -26,11 +28,12 @@ export default new Router({
     {
       path: '/',
       name: 'Dashboard',
-      // redirect: '/auth',
+      redirect: '/topics',
       component: Dashboard,
       // meta: { auth: true },
       children: [
-        // { name: 'Clinic', path: '/dashboard/clinic', component: Clinic },
+        { name: 'Topics', path: '/topics', component: Topics },
+        { name: 'Note', path: '/note/:id', component: Note },
       ]
     },
     
